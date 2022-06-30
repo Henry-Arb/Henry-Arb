@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry-Arb)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry-Arb&show_icons=true&theme=dark)
