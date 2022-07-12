@@ -34,6 +34,7 @@ Welcome to my Github profile
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="100">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="100">
   </div>
 </div>
 
