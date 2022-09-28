@@ -44,3 +44,4 @@ Welcome to my Github profile
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Henry-Arb&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Arb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![@henry_arb's Holopin board](https://holopin.io/api/user/board?user=henry_arb)](https://holopin.io/@henry_arb)
