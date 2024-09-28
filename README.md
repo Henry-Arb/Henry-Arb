@@ -12,7 +12,7 @@ Welcome to my Github profile
 </h1>
 
 ### :man_technologist: About Me :
-- :open_book: I'm a 3rd-year student at Toronto Metropolitan University.
+- :open_book: I'm a 4th-year student at Toronto Metropolitan University.
 - :smile: Some of my interests are: Formula 1 and cooking knock-off versions of fast-food items (Chik-fil-a sauce I'm looking at you...)
 - :beach_umbrella: In my free time I like going to the gym or playing video games (story-driven games are underrated). When Im not doing that I'm either solving katas on codewars or helping other web devs on Discord.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Henry%20Arboladora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-arboladora/)
