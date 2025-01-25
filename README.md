@@ -30,7 +30,6 @@ Welcome to my Github profile
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="100">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="100">
   </div>
   <div id="learning">
       <p>Languages and Tools that I'm currently learning:</p>
