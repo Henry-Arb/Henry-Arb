@@ -12,9 +12,9 @@ Welcome to my Github profile
 </h1>
 
 ### :man_technologist: About Me :
-- :open_book: I'm a 4th-year student at Toronto Metropolitan University.
-- :smile: Some of my interests are: Formula 1 and cooking knock-off versions of fast-food items (Chik-fil-a sauce I'm looking at you...)
-- :beach_umbrella: In my free time I like going to the gym or playing video games (story-driven games are underrated). When Im not doing that I'm either solving katas on codewars or helping other web devs on Discord.
+- :open_book: I'm a computer engineering graduate from Toronto Metropolitan University.
+- :smile: Some of my interests are: Formula 1 and baking 🍰.
+- :beach_umbrella: In my free time I like going to the gym or playing video games (story-driven games are underrated). When I'm not doing that I'm either solving leetcode problems or working on personal projects.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Henry%20Arboladora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-arboladora/)
 ---
 
@@ -34,6 +34,7 @@ Welcome to my Github profile
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="100">
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="100">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="100">
   </div>
   <div id="learning">
       <p>Languages and Tools that I'm currently learning:</p>
@@ -46,4 +47,3 @@ Welcome to my Github profile
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Henry-Arb&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Arb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![@henry_arb's Holopin board](https://holopin.io/api/user/board?user=henry_arb)](https://holopin.io/@henry_arb)
